@@ -3,7 +3,6 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/james-oosthuizen-b8135777"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:Ajoosth@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Location-Johannesburg%2C%20South%20Africa-informational?style=for-the-badge" />
 </p>
 
@@ -11,14 +10,16 @@
 
 ### 🧭 About Me
 
-I'm a Cloud & Data Engineer with 6+ years of experience spanning **cloud infrastructure, Site Reliability Engineering, DevOps, and Data Engineering**. My work sits at the intersection of the infrastructure layer and the data layer — from Kubernetes platforms, GitOps, and infrastructure as code, to ETL pipelines, enterprise integrations, and data governance.
+Security-aware DevOps and Data Engineer with 6+ years designing and supporting enterprise cloud infrastructure, data platforms, and large-scale integrations.
 
-I've built and supported enterprise platforms including **Salesforce and Workday**, and delivered data pipelines that support AI-driven business systems. I enjoy solving hard technical problems and building **reliable, maintainable systems** — especially where platform engineering meets data.
+I deliver Kubernetes and GitOps-based platform services, modernise observability stacks, and build reliable ETL/ELT pipelines and secure APIs integrating systems like Salesforce, Workday, and Azure. My work spans global teams and complex environments, bridging legacy and modern architectures.
 
-- 🔭 Currently working on GitOps-based observability platforms and Kubernetes infrastructure as code
+I focus on practical, automated, and secure solutions that move organisations from experimentation to reliable implementation.
+
+- 🔭 Currently working on GitOps-based data platform deployments
 - 🌱 Currently deepening my skills in Databricks, Delta Lake, and Spark/PySpark
 - 💬 Ask me about Azure, Kubernetes, Terraform, SnapLogic, or enterprise ETL/ELT pipelines
-- ⚡ Fun fact: my career started in cybersecurity and IT support before moving into SRE, DevOps, and data engineering
+- ⚡ Fun fact: my career started in cybersecurity and IT support before moving into SRE, DevOps, and Data Engineering
 
 ---
 
@@ -33,6 +34,7 @@ I've built and supported enterprise platforms including **Salesforce and Workday
 <img src="https://img.shields.io/badge/FluxCD-5468FF?style=flat-square&logo=flux&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" />
 </p>
 
 **Observability**
@@ -50,6 +52,7 @@ I've built and supported enterprise platforms including **Salesforce and Workday
 <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
 <img src="https://img.shields.io/badge/Delta_Lake-00ADD8?style=flat-square&logoColor=white" />
 <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenMetadata-6A5ACD?style=flat-square&logoColor=white" />
 </p>
 
 **Programming & Automation**
@@ -72,13 +75,25 @@ I've built and supported enterprise platforms including **Salesforce and Workday
 
 ### 💼 Experience Snapshot
 
-**CloudSmiths** — *Sept 2021 – July 2026*
-- **DevOps Engineer** (Jan 2026 – Jul 2026): Modernised enterprise monitoring with a GitOps-based observability stack (FluxCD, Prometheus, Grafana, Loki); deployed Kubernetes platform services via Terraform.
-- **Data Engineer** (Jun 2023 – Dec 2025): Built and maintained enterprise ETL/ELT pipelines (SnapLogic) integrating Salesforce, Workday, Azure SQL, and Azure Data Lake; redesigned Salesforce integration around a Pub/Sub architecture.
-- **Site Reliability Engineer** (Sept 2021 – Jun 2023): Primary support for an enterprise data iPaaS platform, driving incident response, monitoring, and reliability improvements.
+- **DevOps Engineer** (Jan 2026 - Jul 2026): Modernised the enterprise monitoring stack by migrating to a GitOps-based platform (FluxCD, Prometheus, Grafana, Loki); designed and deployed Kubernetes platform services with Terraform and env0; integrated Okta with Grafana for RBAC-based access; evaluated OpenMetadata on Kubernetes as a data governance POC.
+- **Data Engineer** (Jun 2023 - Dec 2025): Designed and maintained enterprise ETL/ELT pipelines using SnapLogic, integrating Salesforce, Workday, Azure SQL, and Azure Data Lake; redesigned the EMEA-to-Global Salesforce integration around a Pub/Sub architecture; built secure REST APIs (OpenAPI, Okta OAuth) for internal reporting.
+- **Site Reliability Engineer** (Sept 2021 – Jun 2023): Primary support for an enterprise iPaaS platform and Enterprise Data Hub, improving ETL tool stability, building automated troubleshooting pipelines, and driving reliability through active/passive monitoring.
 
-**Launch Me Investments** — IT Support Specialist *(2021)*
-**Triple E Training** — Office Assistant *(2019–2021)*
+---
+
+### 🚀 Featured Projects
+
+- **Modernisation of Monitoring Stack** — Migrated a legacy, inconsistent monitoring setup to a GitOps-based observability platform: FluxCD-managed Prometheus/Grafana/Loki as code, Grafana dashboards for infrastructure health, Okta auth, and Teams alerting.
+- **POC | OpenMetadata** — Deployed OpenMetadata on Kubernetes for the BI team to enable data cataloguing, discovery, and governance, laying groundwork for future AI use cases.
+- **EMEA-to-Global Salesforce Integration Redesign** — Rebuilt the integration on a Pub/Sub architecture, improving scalability, data validation, and duplication prevention, with record-level rejection logging.
+- **People & Project Data Integrations** — Built API and ETL pipelines connecting Workday to a custom AI model, enabling curated data for employment equity, promotion, and project-allocation decisions.
+- **People Data API** — Designed and deployed a secure internal REST API (SnapLogic, OpenAPI spec) with Okta OAuth, IP restrictions, and pagination for enterprise reporting tools.
+
+---
+
+### 🤖 AI Fluency
+
+I use AI in my workflow, ship AI-adjacent features, and build the infrastructure AI depends on. I've used AI-enabled IDEs and agents for debugging, writing/refining tests, developing and checking Helm charts and Grafana dashboards, and speeding up infrastructure-as-code development — while retaining full ownership of design decisions and final implementation. I avoid exposing confidential data or proprietary code to AI tools, and stick to approved enterprise tools and data governance policies where possible.
 
 ---
 
@@ -87,17 +102,8 @@ I've built and supported enterprise platforms including **Salesforce and Workday
 - Azure Databricks Platform Architect — Databricks (2026)
 - Databricks Fundamentals — Databricks (2025)
 - SnapLogic Integrator Training — SnapLogic (2021)
-- Penetration Testing Certifications (Levels 1–3) — IIE Cyber Security Institute (2017–2019)
+- Penetration Testing Certifications (Levels 1–3) — Cyber Security Institute (2017–2019)
 - Cyber Security 101 — Cyber Security Institute (2017)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jamesoost&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesoost&layout=compact&hide_border=true" />
-</p>
 
 ---
 
@@ -105,6 +111,5 @@ I've built and supported enterprise platforms including **Salesforce and Workday
 
 <p>
 <a href="https://linkedin.com/in/james-oosthuizen-b8135777">LinkedIn</a> ·
-<a href="mailto:Ajoosth@gmail.com">Email</a> ·
 Johannesburg, South Africa
 </p>
