@@ -83,27 +83,27 @@ I focus on practical, automated, and secure solutions that move organisations fr
 
 ### 🚀 Featured Projects
 
-- **Modernisation of Monitoring Stack** — Migrated a legacy, inconsistent monitoring setup to a GitOps-based observability platform: FluxCD-managed Prometheus/Grafana/Loki as code, Grafana dashboards for infrastructure health, Okta auth, and Teams alerting.
-- **POC | OpenMetadata** — Deployed OpenMetadata on Kubernetes for the BI team to enable data cataloguing, discovery, and governance, laying groundwork for future AI use cases.
-- **EMEA-to-Global Salesforce Integration Redesign** — Rebuilt the integration on a Pub/Sub architecture, improving scalability, data validation, and duplication prevention, with record-level rejection logging.
-- **People & Project Data Integrations** — Built API and ETL pipelines connecting Workday to a custom AI model, enabling curated data for employment equity, promotion, and project-allocation decisions.
-- **People Data API** — Designed and deployed a secure internal REST API (SnapLogic, OpenAPI spec) with Okta OAuth, IP restrictions, and pagination for enterprise reporting tools.
+- **Modernisation of Monitoring Stack** - Migrated a legacy, inconsistent monitoring setup to a GitOps-based observability platform: FluxCD-managed Prometheus/Grafana/Loki as code, Grafana dashboards for infrastructure health, Okta auth, and Teams alerting.
+- **POC | OpenMetadata** - Deployed OpenMetadata on Kubernetes for the BI team to enable data cataloguing, discovery, and governance, laying groundwork for future AI use cases.
+- **EMEA-to-Global Salesforce Integration Redesign** - Rebuilt the integration on a Pub/Sub architecture, improving scalability, data validation, and duplication prevention, with record-level rejection logging.
+- **People & Project Data Integrations** - Built API and ETL pipelines connecting Workday to a custom AI model, enabling curated data for employment equity, promotion, and project-allocation decisions.
+- **People Data API** - Designed and deployed a secure internal REST API (SnapLogic, OpenAPI spec) with Okta OAuth, IP restrictions, and pagination for enterprise reporting tools.
 
 ---
 
 ### 🤖 AI Fluency
 
-I use AI in my workflow, ship AI-adjacent features, and build the infrastructure AI depends on. I've used AI-enabled IDEs and agents for debugging, writing/refining tests, developing and checking Helm charts and Grafana dashboards, and speeding up infrastructure-as-code development — while retaining full ownership of design decisions and final implementation. I avoid exposing confidential data or proprietary code to AI tools, and stick to approved enterprise tools and data governance policies where possible.
+I use AI in my workflow, ship AI-adjacent features, and build the infrastructure AI depends on. I've used AI-enabled IDEs and agents for debugging, writing/refining tests, developing and checking Helm charts and Grafana dashboards, and speeding up infrastructure-as-code development - while retaining full ownership of design decisions and final implementation. I avoid exposing confidential data or proprietary code to AI tools, and stick to approved enterprise tools and data governance policies where possible.
 
 ---
 
 ### 🎓 Certifications
 
-- Azure Databricks Platform Architect — Databricks (2026)
-- Databricks Fundamentals — Databricks (2025)
-- SnapLogic Integrator Training — SnapLogic (2021)
-- Penetration Testing Certifications (Levels 1–3) — Cyber Security Institute (2017–2019)
-- Cyber Security 101 — Cyber Security Institute (2017)
+- Azure Databricks Platform Architect - Databricks (2026)
+- Databricks Fundamentals - Databricks (2025)
+- SnapLogic Integrator Training - SnapLogic (2021)
+- Penetration Testing Certifications (Levels 1–3) - Cyber Security Institute (2017–2019)
+- Cyber Security 101 - Cyber Security Institute (2017)
 
 ---
 
