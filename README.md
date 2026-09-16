@@ -4,6 +4,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/james-oosthuizen-b8135777"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Location-Johannesburg%2C%20South%20Africa-informational?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-2EA043?style=for-the-badge" />
 </p>
 
 ---
@@ -16,7 +17,7 @@ I deliver Kubernetes and GitOps-based platform services, modernise observability
 
 I focus on practical, automated, and secure solutions that move organisations from experimentation to reliable implementation.
 
-- 🔭 Currently working on GitOps-based data platform deployments
+- 🔭 Currently building out my [GitOps Platform](https://github.com/jamesoost/gitops-platform) project and exploring Dagster-based data orchestration
 - 🌱 Currently deepening my skills in Databricks, Delta Lake, and Spark/PySpark
 - 💬 Ask me about Azure, Kubernetes, Terraform, SnapLogic, or enterprise ETL/ELT pipelines
 - ⚡ Fun fact: my career started in cybersecurity and IT support before moving into SRE, DevOps, and Data Engineering
@@ -35,6 +36,10 @@ I focus on practical, automated, and secure solutions that move organisations fr
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
 <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" />
+<img src="https://img.shields.io/badge/Okta-007DC1?style=flat-square&logo=okta&logoColor=white" />
+<img src="https://img.shields.io/badge/RBAC-333333?style=flat-square" />
+<img src="https://img.shields.io/badge/IAM-333333?style=flat-square" />
+<img src="https://img.shields.io/badge/HashiCorp_Vault-000000?style=flat-square&logo=vault&logoColor=white" />
 </p>
 
 **Observability**
@@ -53,6 +58,7 @@ I focus on practical, automated, and secure solutions that move organisations fr
 <img src="https://img.shields.io/badge/Delta_Lake-00ADD8?style=flat-square&logoColor=white" />
 <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenMetadata-6A5ACD?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Dagster-6E1BD6?style=flat-square&logo=dagster&logoColor=white" />
 </p>
 
 **Programming & Automation**
@@ -62,32 +68,29 @@ I focus on practical, automated, and secure solutions that move organisations fr
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</p>
-
-**Security & Governance**
-<p>
-<img src="https://img.shields.io/badge/Okta-007DC1?style=flat-square&logo=okta&logoColor=white" />
-<img src="https://img.shields.io/badge/RBAC-333333?style=flat-square" />
-<img src="https://img.shields.io/badge/IAM-333333?style=flat-square" />
+<img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
+<img src="https://img.shields.io/badge/Ruff-D7FF64?style=flat-square&logo=ruff&logoColor=black" />
 </p>
 
 ---
 
 ### 💼 Experience Snapshot
 
-- **DevOps Engineer** (Jan 2026 - Jul 2026): Modernised the enterprise monitoring stack by migrating to a GitOps-based platform (FluxCD, Prometheus, Grafana, Loki); designed and deployed Kubernetes platform services with Terraform and env0; integrated Okta with Grafana for RBAC-based access; evaluated OpenMetadata on Kubernetes as a data governance POC.
-- **Data Engineer** (Jun 2023 - Dec 2025): Designed and maintained enterprise ETL/ELT pipelines using SnapLogic, integrating Salesforce, Workday, Azure SQL, and Azure Data Lake; redesigned the EMEA-to-Global Salesforce integration around a Pub/Sub architecture; built secure REST APIs (OpenAPI, Okta OAuth) for internal reporting.
-- **Site Reliability Engineer** (Sept 2021 – Jun 2023): Primary support for an enterprise iPaaS platform and Enterprise Data Hub, improving ETL tool stability, building automated troubleshooting pipelines, and driving reliability through active/passive monitoring.
+*Career progression (most recent first): DevOps Engineer → Data Engineer → Site Reliability Engineer*
+
+- **DevOps Engineer**: Modernised the enterprise monitoring stack by migrating to a GitOps-based platform (FluxCD, Prometheus, Grafana, Loki); designed and deployed Kubernetes platform services with Terraform and env0; integrated Okta with Grafana for RBAC-based access; evaluated OpenMetadata on Kubernetes as a data governance POC.
+- **Data Engineer**: Designed and maintained enterprise ETL/ELT pipelines using SnapLogic, integrating Salesforce, Workday, Azure SQL, and Azure Data Lake; redesigned the EMEA-to-Global Salesforce integration around a Pub/Sub architecture; built secure REST APIs (OpenAPI, Okta OAuth) for internal reporting.
+- **Site Reliability Engineer**: Primary support for an enterprise iPaaS platform and Enterprise Data Hub, improving ETL tool stability, building automated troubleshooting pipelines, and driving reliability through active/passive monitoring.
 
 ---
 
 ### 🚀 Featured Projects
 
-- **Modernisation of Monitoring Stack** - Migrated a legacy, inconsistent monitoring setup to a GitOps-based observability platform: FluxCD-managed Prometheus/Grafana/Loki as code, Grafana dashboards for infrastructure health, Okta auth, and Teams alerting.
-- **POC | OpenMetadata** - Deployed OpenMetadata on Kubernetes for the BI team to enable data cataloguing, discovery, and governance, laying groundwork for future AI use cases.
-- **EMEA-to-Global Salesforce Integration Redesign** - Rebuilt the integration on a Pub/Sub architecture, improving scalability, data validation, and duplication prevention, with record-level rejection logging.
-- **People & Project Data Integrations** - Built API and ETL pipelines connecting Workday to a custom AI model, enabling curated data for employment equity, promotion, and project-allocation decisions.
-- **People Data API** - Designed and deployed a secure internal REST API (SnapLogic, OpenAPI spec) with Okta OAuth, IP restrictions, and pagination for enterprise reporting tools.
+- **[GitOps Platform](https://github.com/jamesoost/gitops-platform)** - A working Kubernetes GitOps platform built on FluxCD, combining declarative app delivery (Dagster + PostgreSQL), Vault-backed secret management, and a Prometheus/Loki/Grafana monitoring stack, with dev/prod overlays and CI validation on every PR.
+- **[Terraform AWS Merchant Platform](https://github.com/jamesoost/terraform-aws-merchant-platform)** - A production-ready Terraform reference architecture for a merchant platform on AWS: multi-AZ EKS, encrypted RDS with auto-rotated secrets, ALB with HTTPS termination, and full observability (CloudWatch, CloudTrail, VPC Flow Logs) across dev/staging/prod environments.
+- **[Dual-Engine Flight Pipeline](https://github.com/jamesoost/dual-engine-flight-pipeline)** - An ETL project that runs the same flight-data workflow through both pandas and PySpark, sharing a single schema/validation contract so results stay consistent across engines. Includes a quarantine pattern for invalid records and CI for linting and parity tests.
+- **[Kafka Spark Streaming Pipeline](https://github.com/jamesoost/kafka-spark-streaming-pipeline)** - A Spark Structured Streaming pipeline ingesting synthetic e-commerce events from Kafka, with schema validation, event-time watermarking, dead-letter/invalid-record routing, and windowed aggregation. Ships with a local Kafka broker and event producer for an end-to-end runnable demo.
+- **[NASA Integration](https://github.com/jamesoost/nasa-integration)** - A PySpark ETL pipeline built around the NASA InSight Mars weather API, with extract/transform/load stages, data quality validation with a quarantine path, and idempotent upserts into SQLite.
 
 ---
 
@@ -99,11 +102,11 @@ I use AI in my workflow, ship AI-adjacent features, and build the infrastructure
 
 ### 🎓 Certifications
 
-- Azure Databricks Platform Architect - Databricks (2026)
-- Databricks Fundamentals - Databricks (2025)
-- SnapLogic Integrator Training - SnapLogic (2021)
-- Penetration Testing Certifications (Levels 1–3) - Cyber Security Institute (2017–2019)
-- Cyber Security 101 - Cyber Security Institute (2017)
+- Azure Databricks Platform Architect - Databricks
+- Databricks Fundamentals - Databricks
+- SnapLogic Integrator Training - SnapLogic
+- Penetration Testing Certifications (Levels 1–3) - Cyber Security Institute
+- Cyber Security 101 - Cyber Security Institute
 
 ---
 
@@ -111,5 +114,11 @@ I use AI in my workflow, ship AI-adjacent features, and build the infrastructure
 
 <p>
 <a href="https://linkedin.com/in/james-oosthuizen-b8135777">LinkedIn</a> ·
+<a href="mailto:Ajoosth@gmail.com">Ajoosth@gmail.com</a> ·
 Johannesburg, South Africa
+</p>
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=jamesoost&show_icons=true&theme=default&hide_border=true&count_private=true" alt="James's GitHub stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesoost&layout=compact&hide_border=true" alt="Top languages" height="165" />
 </p>
