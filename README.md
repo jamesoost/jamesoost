@@ -117,8 +117,3 @@ I use AI in my workflow, ship AI-adjacent features, and build the infrastructure
 <a href="mailto:Ajoosth@gmail.com">Ajoosth@gmail.com</a> ·
 Johannesburg, South Africa
 </p>
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=jamesoost&show_icons=true&theme=default&hide_border=true&count_private=true" alt="James's GitHub stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesoost&layout=compact&hide_border=true" alt="Top languages" height="165" />
-</p>
